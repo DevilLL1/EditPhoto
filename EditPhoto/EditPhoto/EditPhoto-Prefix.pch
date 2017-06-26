@@ -1,0 +1,15 @@
+//
+//  EditPhoto-Prefix.pch
+//  EditPhoto
+//
+//  Created by 玉立 on 17/5/17.
+//  Copyright © 2017年 YuLi. All rights reserved.
+//
+
+#ifndef EditPhoto_Prefix_pch
+#define EditPhoto_Prefix_pch
+
+    #import "AppMacro.h"
+    #import "TypeMacro.h"
+
+#endif 
